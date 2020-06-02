@@ -1,0 +1,20 @@
+Message stats for scenario EPtest5_60
+sim_time: 10000.0000
+created: 340
+started: 57716
+relayed: 22349
+aborted: 35349
+dropped: 19537
+removed: 0
+delivered: 75
+delivery_prob: 0.2206
+response_prob: 0.0000
+overhead_ratio: 296.9867
+latency_avg: 2575.7293
+latency_med: 2135.7000
+hopcount_avg: 3.8533
+hopcount_med: 4
+buffertime_avg: 977.5988
+buffertime_med: 473.9000
+rtt_avg: NaN
+rtt_med: NaN

@@ -1,0 +1,20 @@
+Message stats for scenario SW_80
+sim_time: 10000.0000
+created: 340
+started: 12472
+relayed: 1935
+aborted: 10536
+dropped: 687
+removed: 0
+delivered: 85
+delivery_prob: 0.2529
+response_prob: 0.0000
+overhead_ratio: 21.7647
+latency_avg: 2491.6929
+latency_med: 2244.7000
+hopcount_avg: 2.1647
+hopcount_med: 2
+buffertime_avg: 1995.6603
+buffertime_med: 0.0000
+rtt_avg: NaN
+rtt_med: NaN

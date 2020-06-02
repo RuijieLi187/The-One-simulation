@@ -1,0 +1,20 @@
+Message stats for scenario SW_20
+sim_time: 10000.0000
+created: 340
+started: 11915
+relayed: 2157
+aborted: 9753
+dropped: 640
+removed: 0
+delivered: 108
+delivery_prob: 0.3176
+response_prob: 0.0000
+overhead_ratio: 19.9722
+latency_avg: 2445.1565
+latency_med: 1883.7000
+hopcount_avg: 2.4074
+hopcount_med: 3
+buffertime_avg: 3778.4373
+buffertime_med: 4279.8000
+rtt_avg: NaN
+rtt_med: NaN
